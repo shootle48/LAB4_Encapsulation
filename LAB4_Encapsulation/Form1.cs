@@ -22,11 +22,6 @@ namespace LAB4_Encapsulation
 
             Person newPerson = new Person(name, ibYear, iGpa);
 
-            /*this.textList.Text += newPerson.getName()+"\r\n";
-            int currentAge = Int32.Parse(this.labelTotal.Text);
-            int newTotal = currentAge + newPerson.getAge();
-            this.labelTotal.Text = newTotal.ToString();*/
-
             this.classroom.addPersonToClass(newPerson);
             this.classroom.addGPAToClass();
             this.textList.Text = this.classroom.showAllPersoninClass();
