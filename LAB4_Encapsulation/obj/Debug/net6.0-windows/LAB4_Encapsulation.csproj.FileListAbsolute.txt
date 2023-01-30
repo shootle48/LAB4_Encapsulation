@@ -1,0 +1,17 @@
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.csproj.AssemblyReference.cache
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.Form1.resources
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.csproj.GenerateResource.cache
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.AssemblyInfoInputs.cache
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.AssemblyInfo.cs
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\bin\Debug\net6.0-windows\LAB4_Encapsulation.exe
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\bin\Debug\net6.0-windows\LAB4_Encapsulation.deps.json
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\bin\Debug\net6.0-windows\LAB4_Encapsulation.runtimeconfig.json
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\bin\Debug\net6.0-windows\LAB4_Encapsulation.dll
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\bin\Debug\net6.0-windows\LAB4_Encapsulation.pdb
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.dll
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\refint\LAB4_Encapsulation.dll
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.pdb
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\LAB4_Encapsulation.genruntimeconfig.cache
+C:\Source Code\OOP\LAB4_Encapsulation\LAB4_Encapsulation\obj\Debug\net6.0-windows\ref\LAB4_Encapsulation.dll

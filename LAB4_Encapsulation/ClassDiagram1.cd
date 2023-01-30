@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LAB4_Encapsulation.Person">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAAAAQAAAAAAAAAAAAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB4_Encapsulation.Form1">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAKAAABAAAACAAAACAAAIQAAAAEAAAACAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB4_Encapsulation.Classroom">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Classroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
